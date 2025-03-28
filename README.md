@@ -28,7 +28,7 @@ The report includes the following insights:
 - Understand whether salary, education, or experience influence turnover
 - Provide a visually engaging and actionable report for HR teams
 
-Data Cleaning & Preparation
+🧹Data Cleaning & Preparation
 
 All data cleaning was done within Power BI's Power Query Editor using:
 
@@ -38,7 +38,7 @@ All data cleaning was done within Power BI's Power Query Editor using:
 - Filtering unnecessary columns
 - Ensuring clean relationships between fact and dimension tables
 
-🧩 Data Model
+⭐ Data Model
 
 The report uses a star schema for clean data structure:
 
@@ -57,7 +57,7 @@ Each table is connected with a one-to-many relationship using proper keys.
 - Power Query Editor (for data transformation)
 - Power BI visualizations (cards, bar charts, pie charts, filters, etc.)
 
-🚀 How to Use the Report
+ How to Use the Report
 
 To explore the dashboard interactively:
 
@@ -78,10 +78,12 @@ The main dataset `HR_Data.csv` includes the following fields:
 These columns were used to segment and analyze attrition across the employee population.
 
 
-👨‍💼 Author
-Florian Boulay
-MBA Graduate | Data Analyst | Business Intelligence  
-📧 florian.boulay@hec.ca 
-🔗 [LinkedIn](https://www.linkedin.com/in/florian-boulay-524298179/)
+📩 Contact
+
+For any questions, feel free to connect:
+
+📧 Email: florian.boulay@hec.ca
+🔗 LinkedIn: https://www.linkedin.com/in/florian-boulay-524298179/
+🚀 If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 
